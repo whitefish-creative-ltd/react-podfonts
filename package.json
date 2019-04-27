@@ -1,6 +1,6 @@
 {
   "name": "react-podfonts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "private": false,
   "dependencies": {
     "react": "^16.8.0"
