@@ -1,0 +1,224 @@
+/*!
+ * Podfonts Mono v1.1.0 by James Studdart - https://podfonts.com
+ * License - https://podfonts.com/license/
+ */
+
+ @font-face {
+  font-family: 'PodFonts-Mono';
+  src:  url('https://cdn.podfonts.com/releases/v1.0.0/fonts/PodFonts-Mono.eot?652u9v');
+  src:  url('https://cdn.podfonts.com/releases/v1.1.0/fonts/PodFonts-Mono.eot?652u9v#iefix') format('embedded-opentype'),
+    url('https://cdn.podfonts.com/releases/v1.1.0/fonts/PodFonts-Mono.ttf?652u9v') format('truetype'),
+    url('https://cdn.podfonts.com/releases/v1.1.0/fonts/PodFonts-Mono.woff?652u9v') format('woff'),
+    url('https://cdn.podfonts.com/releases/v1.1.0/fonts/PodFonts-Mono.svg?652u9v#PodFonts-Mono') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.pf {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'PodFonts-Mono' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.pf-lg {
+  font-size: 1.33333em;
+  line-height: 0.75em;
+  vertical-align: -.0667em; }
+
+.pf-xs {
+  font-size: .75em; }
+
+.pf-sm {
+  font-size: .875em; }
+
+.pf-1x {
+  font-size: 1em; }
+
+.pf-2x {
+  font-size: 2em; }
+
+.pf-3x {
+  font-size: 3em; }
+
+.pf-4x {
+  font-size: 4em; }
+
+.pf-5x {
+  font-size: 5em; }
+
+.pf-6x {
+  font-size: 6em; }
+
+.pf-7x {
+  font-size: 7em; }
+
+.pf-8x {
+  font-size: 8em; }
+
+.pf-9x {
+  font-size: 9em; }
+
+.pf-10x {
+  font-size: 10em; }
+
+
+.pf-podfonts:before {
+  content: "\e9a6";
+}
+.pf-cynical-developer:before {
+  content: "\e9b5";
+}
+.pf-h-audio-boom:before {
+  content: "\e9cf";
+}
+.pf-h-blog-talk-radio:before {
+  content: "\ea1d";
+}
+.pf-h-blubrry:before {
+  content: "\ea2b";
+}
+.pf-h-buzz-sprout:before {
+  content: "\ea2e";
+}
+.pf-h-castos:before {
+  content: "\ea33";
+}
+.pf-h-fire-side:before {
+  content: "\ea38";
+}
+.pf-h-soundcloud:before {
+  content: "\e903";
+}
+.pf-h-libsyn:before {
+  content: "\ea39";
+}
+.pf-h-omny-studio:before {
+  content: "\ea3a";
+}
+.pf-h-pinecast:before {
+  content: "\ea3d";
+}
+.pf-h-pippa-io:before {
+  content: "\ea3e";
+}
+.pf-h-podcast-websites:before {
+  content: "\ea41";
+}
+.pf-h-podcasts-dot-com:before {
+  content: "\ea47";
+}
+.pf-h-podiant:before {
+  content: "\ea4a";
+}
+.pf-h-podigee:before {
+  content: "\ea50";
+}
+.pf-h-podigee-o:before {
+  content: "\e901";
+}
+.pf-h-podomatic:before {
+  content: "\ea53";
+}
+.pf-h-simplecast:before {
+  content: "\ea54";
+}
+.pf-h-spreaker:before {
+  content: "\ea58";
+}
+.pf-h-whooshkaa:before {
+  content: "\ea59";
+}
+.pf-h-zen-cast-fm:before {
+  content: "\ea5a";
+}
+.pf-a-apple-podcasts:before {
+  content: "\e918";
+}
+.pf-a-beyond-pod:before {
+  content: "\e91d";
+}
+.pf-a-castaway:before {
+  content: "\e921";
+}
+.pf-a-castbox:before {
+  content: "\e93b";
+}
+.pf-a-castro:before {
+  content: "\e93f";
+}
+.pf-a-doggcatcher:before {
+  content: "\e943";
+}
+.pf-a-downcast:before {
+  content: "\e94d";
+}
+.pf-a-google-play-music:before {
+  content: "\e952";
+}
+.pf-a-google-podcasts:before {
+  content: "\e95a";
+}
+.pf-a-icatcher:before {
+  content: "\e964";
+}
+.pf-a-laughable:before {
+  content: "\e96b";
+}
+.pf-a-overcast:before {
+  content: "\e971";
+}
+.pf-a-playerfm:before {
+  content: "\e97b";
+}
+.pf-a-pocket-casts:before {
+  content: "\e900";
+}
+.pf-a-podbean:before {
+  content: "\e980";
+}
+.pf-a-podcast-addict:before {
+  content: "\e984";
+}
+.pf-a-podcast-republic:before {
+  content: "\e989";
+}
+.pf-a-podchaser:before {
+  content: "\e98d";
+}
+.pf-a-podcruncher:before {
+  content: "\e990";
+}
+.pf-a-podkicker:before {
+  content: "\e996";
+}
+.pf-a-radio-republic:before {
+  content: "\e99f";
+}
+.pf-a-rss:before {
+  content: "\e9a5";
+}
+.pf-a-spotify:before {
+  content: "\e9a7";
+}
+.pf-a-stitcher:before {
+  content: "\e9a8";
+}
+.pf-a-tunein:before {
+  content: "\e9ad";
+}
+.pf-a-antennapod:before {
+  content: "\e912";
+}
+.pf-a-iheartradio:before {
+  content: "\e902";
+}

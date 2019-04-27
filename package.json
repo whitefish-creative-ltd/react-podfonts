@@ -1,0 +1,27 @@
+{
+  "name": "react-podfonts",
+  "version": "1.0.0",
+  "private": false,
+  "dependencies": {
+    "react": "^16.8.0"
+  },
+  "description": "Font Icons for Podcasters.",
+  "main": "Podfont.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitefish-creative-ltd/react-podfonts.git"
+  },
+  "keywords": [
+    "podcast",
+    "font",
+    "fonts",
+    "icons",
+    "podcaster"
+  ],
+  "author": "Nicolas Marcora",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/whitefish-creative-ltd/react-podfonts/issues"
+  },
+  "homepage": "https://github.com/whitefish-creative-ltd/react-podfonts#readme"
+}
